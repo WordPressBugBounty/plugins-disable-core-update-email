@@ -1,0 +1,1 @@
+# plugins-disable-core-update-email
